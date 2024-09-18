@@ -25,6 +25,13 @@ Notes and schedule for the 2024 Git Merge conference in Berlin.
 | 4:50p | Securing Git Repositories with Gittuf | [Aditya Sirish A Yelgundhalli](https://github.com/adityasaky), [Billy Lynch](https://github.com/wlynch) |
 | 5:15p | Marrying Meta's source control with Git | [Muir Manders](https://github.com/muirdm), [Rajiv Sharma](https://github.com/RajivTS) |
 | 5:45p | *Closing* | Scott Chacon & Taylor Blau |
+| 7:00p | *After Party* | [Mein Haus Am See: Cosmic Kaspar](https://www.cosmic-kaspar.de/) |
+
+## Day One: After Party Details
+
+[Cosmic Kapsar](https://www.cosmic-kaspar.de/) (basement of Mein Haus Am See, Rosenthaler Platz)<br/>
+Brunnenstr. 197/198, 10119 Berlin <br/>
+7pm
 
 ## Day Two: Unconference
 
