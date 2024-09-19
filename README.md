@@ -29,7 +29,7 @@ Notes and schedule for the 2024 Git Merge conference in Berlin.
 
 ## Day One: After Party Details
 
-[Cosmic Kapsar](https://www.cosmic-kaspar.de/) (basement of Mein Haus Am See, Rosenthaler Platz)<br/>
+[Cosmic Kaspar](https://www.cosmic-kaspar.de/) (basement of Mein Haus Am See, Rosenthaler Platz)<br/>
 Brunnenstr. 197/198, 10119 Berlin <br/>
 7pm
 
