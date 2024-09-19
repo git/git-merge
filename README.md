@@ -22,7 +22,7 @@ Notes and schedule for the 2024 Git Merge conference in Berlin.
 | 3:45p | Leveraging AI to ensure Git Monorepo performance under heavy workloads | [Daniele Sassoli](https://github.com/DanieleSassoli) |
 | 4:10p | **Break (15min)** |
 | 4:25p | Stories of GitOxide: Reimplementing Git in Rust | [Sebastian Thiel](https://github.com/Byron) |
-| 4:50p | Securing Git Repositories with Gittuf | [Aditya Sirish A Yelgundhalli](https://github.com/adityasaky), [Billy Lynch](https://github.com/wlynch) |
+| 4:50p | Securing Git Repositories with Gittuf | [Aditya Sirish A Yelgundhalli](https://github.com/adityasaky) |
 | 5:15p | Marrying Meta's source control with Git | [Muir Manders](https://github.com/muirdm), [Rajiv Sharma](https://github.com/RajivTS) |
 | 5:45p | *Closing* | Scott Chacon & Taylor Blau |
 | 7:00p | *After Party* | [Mein Haus Am See: Cosmic Kaspar](https://www.cosmic-kaspar.de/) |
