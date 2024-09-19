@@ -1,5 +1,7 @@
 # Git Merge Information
 
+Discord: [![Discord](https://dcbadge.limes.pink/api/server/v2FqAaWX)](https://discord.com/channels/1042895022950994071/1265007518942367755)
+
 Notes and schedule for the 2024 Git Merge conference in Berlin.
 
 ## Day One: Talks
