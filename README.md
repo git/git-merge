@@ -1,4 +1,4 @@
-# Git Merge Information
+![image](https://github.com/user-attachments/assets/fe0635e8-4fd5-4275-a060-95811df71eca)# Git Merge Information
 
 Notes and schedule for the 2024 Git Merge conference in Berlin.
 
@@ -36,3 +36,9 @@ Brunnenstr. 197/198, 10119 Berlin <br/>
 ## Day Two: Unconference
 
 The second day will be unconference style. The talks will be suggested and slotted on a board in the main hall. Notes from each session will be added here.
+
+The schedule for the breakout rooms is as follows:
+
+![PXL_20240920_083357527](https://github.com/user-attachments/assets/6545e038-8709-4e56-b70b-053d3ae31f5b)
+
+If you're leading a breakout room, and you need to move your breakout room, please let one of the organisers know.
