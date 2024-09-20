@@ -34,3 +34,7 @@
 - Meta: How do we avoid tools wiping each others headers and/or additional directories?
     - Official add some space and support 3rd party headers, directories, etc.
 
+
+## Next Steps
+
+- Reach out to caleb@gitbutler.com or nico@gitbutler.com to get added to the email thread
