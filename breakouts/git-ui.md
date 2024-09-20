@@ -37,4 +37,4 @@
 
 ## Next Steps
 
-- Reach out to caleb@gitbutler.com or nico@gitbutler.com to get added to the email thread
+- Reach out to caleb[at][organising-company].com or nico[at][organising-company].com to get added to the email thread if you want to follow-up and didn't add your email
