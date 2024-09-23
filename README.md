@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe0635e8-4fd5-4275-a060-95811df71eca)# Git Merge Information
+# Git Merge Information
 
 Notes and schedule for the 2024 Git Merge conference in Berlin.
 
