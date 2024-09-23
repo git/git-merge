@@ -1,6 +1,6 @@
 # Push v2 Concepts
 
-Document link: ?
+Document link: https://github.com/git/git-merge/blob/main/breakouts/Git%20Push%20Protocol%20v2.pdf
 
 ## Auto Rebase Push
 
