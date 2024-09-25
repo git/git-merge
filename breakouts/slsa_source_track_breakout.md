@@ -1,4 +1,4 @@
-Open Discussion
+## Open Discussion
 
 * SLSA is meant to establish standards / language to communicate how trustworthy development processes are
 * Breaks standards into levels: higher the level, the better the guarantees
@@ -62,5 +62,7 @@ Open Discussion
   * Would a consumer expect code review from a vendor?
 * Automated tests may be better signal than code review
 
-SLSA community: [https://slsa.dev/community](https://slsa.dev/community)
-Source Track *Draft:* [https://slsa.dev/spec/draft/source-requirements](https://slsa.dev/spec/draft/source-requirements)
+## Links
+
+* SLSA community: [https://slsa.dev/community](https://slsa.dev/community)
+* Source Track *Draft:* [https://slsa.dev/spec/draft/source-requirements](https://slsa.dev/spec/draft/source-requirements)
