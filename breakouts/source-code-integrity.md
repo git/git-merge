@@ -1,13 +1,20 @@
+# Source Code Integrity
+
+This breakout session was proposed to discuss source code integrity in the
+context of software supply chain security efforts like the SLSA framework and
+gittuf. After a round of introductions, the session discussed what SLSA is and
+its draft proposal for source code integrity (known as the SLSA source track).
+
 ## Open Discussion
 
 * SLSA is meant to establish standards / language to communicate how trustworthy development processes are
 * Breaks standards into levels: higher the level, the better the guarantees
 * V1.0 has Build track: how builders can secure transforming source code to build artifacts like binaries
-* Build level 1: protects against mistakes, documentation
-* Build level 2: protects against tampering after the build
-* Build level 3: some protections during build with isolation requirements, etc.
-* Build track allows for mapping a binary artifact to the source code that produced it
-* But raises the question about how to trust the source code
+  * Build level 1: protects against mistakes, documentation
+  * Build level 2: protects against tampering after the build
+  * Build level 3: some protections during build with isolation requirements, etc.
+  * Build track allows for mapping a binary artifact to the source code that produced it
+  * But raises the question about how to trust the source code
 * Q: does build level 3 include reproducible builds?
   * No, this was discussed extensively and was part of the spec pre v1.0
   * On a related note, there’s a separate track being worked on to get hardware attested trust for a build, that provides some similar guarantees
@@ -28,9 +35,10 @@
   * Not 100% sure about CRA, but maps to requirements in SSDF etc and perhaps similar?
   * Additionally, SLSA is more verifiable with tooling rather than a human-filled checklist
 * SLSA \<-\> gittuf
-  * SLSA doesn’t want to require a specific toolchain for managing source code
+  * SLSA doesn’t want to require a specific toolchain for enforcing source code
+    integrity
   * Requiring a specific toolchain would also stop the development of new tools
-* Is the ambition of SLSA to get bigger players (Google etc) to align on these goals? Startups?
+* Is the ambition of SLSA to get bigger players (Google etc.) to align on these goals? Startups?
   * Large enterprises and startups
   * Related: do we expect small orgs / engineers to implement controls?
   * One set of SLSA’s consumers are in fact developer tooling / platforms builders who can build requirements into tooling to make it available invisibly to end users
@@ -44,14 +52,14 @@
   * Yes, that could well be the case
   * If the vendor is a hobbyist, it’s on the enterprise to compensate the hobbyist
 * What’s the tooling to verify the attestations for some repo you’re consuming?
-  * One option is to trust the attestation to an extent, check the revision matches the attestation, etc.
-  * Who makes the attestation (maintainer of repository vs someone else for eg) is an interesting question
-* gittuf
-  * SLSA isn’t prescriptive
+  * One option is to trust the provider of the attestation to an extent, check the revision matches the attestation, etc.
+  * Who makes the attestation (maintainer of repository vs someone else for example) is an interesting question
+* Back to gittuf
+  * SLSA isn’t prescriptive about tooling
   * You can meet a lot of these requirements by trusting a platform to do them
   * But maybe we can go further and remove the need to trust the platform
-  * What does it mean to be SLSA Level 3 if the system enforcing those things can be compromised
-* Thoughts on code review
+  * What does it mean to be SLSA Level 3 if the system enforcing those things can be compromised? That's what gittuf addresses in the context of the source track
+* Thoughts on code review as a source track requirement
   * Anonymity / pseudo-anonymity are important
   * Individuals can’t meet this requirement
   * In startups: requiring code reviews would be difficult
@@ -65,4 +73,5 @@
 ## Links
 
 * SLSA community: [https://slsa.dev/community](https://slsa.dev/community)
-* Source Track *Draft:* [https://slsa.dev/spec/draft/source-requirements](https://slsa.dev/spec/draft/source-requirements)
+* SLSA Source Track *Draft*: [https://slsa.dev/spec/draft/source-requirements](https://slsa.dev/spec/draft/source-requirements)
+* gittuf: [https://github.com/gittuf/gittuf](https://github.com/gittuf/gittuf)
