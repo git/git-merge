@@ -12,7 +12,7 @@ Notes and schedule for the 2024 Git Merge conference in Berlin.
 | 10:40a | How we built a peer-to-peer forge on top of Git | [Alexis Sellier](https://github.com/cloudhead) |
 | 11:05a | Jujutsu - A Git-compatible VCS | [Martin von Zweigbergk](https://github.com/martinvonz) |
 | 11:30a  | **Break (15min)** |
-| 11:45a | State of Libification - Overview and Update on Effort | [Emily Shaffer](https://github.com/nasamuffin) |
+| 11:45a | [State of Libification - Overview and Update on Effort](https://tinyurl.com/gm2024-libification) | [Emily Shaffer](https://github.com/nasamuffin) |
 | 12:10p | The Git Credential Helper Protocol: What's New	| [Brian Carlson](https://github.com/bk2204) |
 | 12:35p | libgit2: past, present, and future	| [Edward Thomson](https://github.com/ethomson) |
 | 1:00p | **Lunch (1.5h)** |
