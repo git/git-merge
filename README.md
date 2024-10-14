@@ -2,19 +2,19 @@
 
 Notes and schedule for the 2024 Git Merge conference in Berlin.
 
-## Day One: Talks
+## Day One: [Talks](https://www.youtube.com/playlist?list=PLNXkW_le40U6Igw7FcHgQGnQNDQ8kWyuE)
 
 | Time  | Talk | Speaker |
 | ------------- | ------------- | ------------- |
 | 9:00a  | **Doors Open** |
 | 10:00a  | *Welcome*  | Scott Chacon & Taylor Blau |
-| 10:15a  | Scaling Git  | [Taylor Blau](https://github.com/ttaylorr) |
-| 10:40a | How we built a peer-to-peer forge on top of Git | [Alexis Sellier](https://github.com/cloudhead) |
-| 11:05a | Jujutsu - A Git-compatible VCS | [Martin von Zweigbergk](https://github.com/martinvonz) |
+| 10:15a  | [Scaling Git](https://youtu.be/-h7TzllaWU0)  | [Taylor Blau](https://github.com/ttaylorr) |
+| 10:40a | [How we built a peer-to-peer forge on top of Git](https://youtu.be/tsVa53SPIHc) | [Alexis Sellier](https://github.com/cloudhead) |
+| 11:05a | [Jujutsu - A Git-compatible VCS](https://youtu.be/LV0JzI8IcCY) | [Martin von Zweigbergk](https://github.com/martinvonz) |
 | 11:30a  | **Break (15min)** |
-| 11:45a | [State of Libification - Overview and Update on Effort](https://tinyurl.com/gm2024-libification) | [Emily Shaffer](https://github.com/nasamuffin) |
-| 12:10p | The Git Credential Helper Protocol: What's New	| [Brian Carlson](https://github.com/bk2204) |
-| 12:35p | libgit2: past, present, and future	| [Edward Thomson](https://github.com/ethomson) |
+| 11:45a | [State of Libification - Overview and Update on Effort](https://youtu.be/MhIokApiLP8) ([slides](https://tinyurl.com/gm2024-libification)) | [Emily Shaffer](https://github.com/nasamuffin) |
+| 12:10p | [The Git Credential Helper Protocol: What's New](https://youtu.be/3Gy3-lA7xls)	| [Brian Carlson](https://github.com/bk2204) |
+| 12:35p | [libgit2: past, present, and future](https://youtu.be/1SZaCOdrweE)	| [Edward Thomson](https://github.com/ethomson) |
 | 1:00p | **Lunch (1.5h)** |
 | 2:30p | Abusing Git for GitButler	| [Scott Chacon](https://github.com/schacon) |
 | 2:55p | Introduction to the reftable backend | [Patrick Steinhardt](https://gitlab.com/pks-t) |
